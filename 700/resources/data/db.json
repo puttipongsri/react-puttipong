@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "user": "asdadsad",
+      "password": "sadasdad",
+      "firtName": "asdsadsa",
+      "lastName": "asdada",
+      "sex": "asdsad",
+      "age": "dasdsad",
+      "Email": "asadsad",
+      "phoneNumber": "asdas",
+      "address": "asdsa",
+      "thumbnail": "/images/member/7.jpg",
+      "id": 1
+    },
+    {
+      "user": "asdadsad",
+      "password": "sadasdad",
+      "firtName": "asdsadsa",
+      "lastName": "asdada",
+      "sex": "asdsad",
+      "age": "dasdsad",
+      "Email": "asadsad",
+      "phoneNumber": "asdas",
+      "address": "asdsa",
+      "thumbnail": "/images/member/5.jpg",
+      "id": 2
+    }
+  ]
+}
